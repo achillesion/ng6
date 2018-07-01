@@ -1,3 +1,30 @@
+#Application goals
+
+Install Angular 6 with the Angular CLI
+Understand and Create Components
+Understand and Create Services
+Working with HTML & CSS in Angular 6
+Working with Angular 6 Routing
+Working with the Angular 6 HTTP Client
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Ng6
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
